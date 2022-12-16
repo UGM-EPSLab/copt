@@ -4,11 +4,11 @@ Fast Capacity Outage Probability Table (COPT) generator powered by `NumPy`.
 
 ## App in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasirroni/copt/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UGM-EPSLab/copt/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fapp.ipynb)
 
 ## Notebook in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasirroni/copt/blob/main/notebooks/app.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UGM-EPSLab/copt/blob/main/notebooks/app.ipynb)
 
 ## Feature
 
